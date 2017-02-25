@@ -35,4 +35,6 @@ title: Home
 
 {% include_relative _content/basic-syntax/images.md %}
 
+{% include_relative _content/markdown-implementations.md %}
+
 {% include_relative _content/additional-resources.md %}
